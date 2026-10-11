@@ -26,12 +26,12 @@ Credit: ATMO https://atmotube.com/blog/particulate-matter-pm-levels-and-aqi
 
 ## Test 1
 <img src="https://github.com/alexew0923/Solder_Fume_Extractor/blob/main/Assets/air_filter_on_left" width=50% height=50%>
-<img src="https://github.com/alexew0923/Solder_Fume_Extractor/blob/main/Assets/setup_left" width=50% height=50%>
+<img src="https://github.com/alexew0923/Solder_Fume_Extractor/blob/main/Assets/setup_left.jpg" width=50% height=50%>
 As seen in the graph, the particulate matter mass concentration stayed in the safe level. However, I noticed the fan was too weak to suck all the fume and I could constantly smell the escaping fumes.
 
 ## Test 2
 <img src="https://github.com/alexew0923/Solder_Fume_Extractor/blob/main/Assets/air_filter_on_top" width=50% height=50%>
-<img src="https://github.com/alexew0923/Solder_Fume_Extractor/blob/main/Assets/setup_top" width=50% height=50%>
+<img src="https://github.com/alexew0923/Solder_Fume_Extractor/blob/main/Assets/setup_top.jpg" width=50% height=50%>
 This time, I changed the position of the air filter to above the workbench as fumes rise in the air. I hoped the result would improve, but it was about the same. The issue with weak duct fan persisted and the solder fumes often did not pass the filter and went around it.
 
 ## Test 3
