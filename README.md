@@ -1,7 +1,7 @@
 # Solder Fume Extractor
 This repository contains information on how to build your own custom solder fume extractor.
 
-<img src="https://github.com/alexew0923/Solder_Fume_Extractor/blob/main/Assets/fume_extractor" width=50% height=50%>
+<img src="https://github.com/alexew0923/Solder_Fume_Extractor/blob/main/Assets/fume_extractor.jpg" width=50% height=50%>
 
 # Materials
 *Note: * The products listed here are not affiliated with me any kind and I only bought these after searching which to buy.
